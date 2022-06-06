@@ -1,4 +1,4 @@
-# WebSocketClientAndroid
+# WebSocket Client Android
 Web socket client - android kotlin
 
 My medium article about WebSocket: 
